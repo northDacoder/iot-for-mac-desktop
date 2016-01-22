@@ -1,0 +1,19 @@
+body {
+    background: white;
+    font-family: 'Poiret One';
+    font-family: 'Lato';
+    background: #eee;
+    background: #333;
+    color: rgba(255,255,255,.6);
+}
+
+
+span.sensor {
+    color: white;
+    background: black;
+    padding: 5px 20px;
+    color: lime;
+    width: 140px;
+    height: 50px;
+    text-align: center;
+}
